@@ -1,0 +1,20 @@
+NIBIR
+@nibir
+@@ FARHAN JARIF NIBIR
+20101053@@
+Int a
+Int b
+Int c
+a = 6
+b = 12
+c = 2
+If [a < 7] (
+    a = b / 2
+)
+Else (
+    b = a / 2
+)
+For [a>0:a-1](
+     c = c + 2
+)
+NIBIR_END

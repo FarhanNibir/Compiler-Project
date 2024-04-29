@@ -1,0 +1,4 @@
+bison -d 20101053.y
+flex 20101053.l
+gcc lex.yy.c 20101053.tab.c
+a
